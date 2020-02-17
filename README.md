@@ -6,7 +6,7 @@ There are two libraries available, one with strong colours and one with subdued 
 ![Strong colours](./StrongColour.png)  ![Subdue colours](./SoftColour.png)
 
 
-This is the links to use when importing the libraries int Draw.io: 
+This are the links to use when importing the libraries int Draw.io: 
 * https://raw.githubusercontent.com/RubenOlsen/DrawIo-Annotatinons/master/Annotations-soft-colour.xml
 * https://raw.githubusercontent.com/RubenOlsen/DrawIo-Annotatinons/master/Annotations-strong-colour.xml
 
